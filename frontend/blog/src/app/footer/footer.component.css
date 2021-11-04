@@ -1,0 +1,13 @@
+.social-network {
+list-style: none;
+
+
+}
+
+.social-network>li{
+
+  display: inline;
+  padding: 5px;
+  font-size: 35px;
+
+}

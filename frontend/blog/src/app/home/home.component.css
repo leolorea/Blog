@@ -1,0 +1,15 @@
+.parallax{
+  background-image: url('https://cdn.pixabay.com/photo/2020/11/05/11/26/robotic-5714849_960_720.png');
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.body{
+
+
+}

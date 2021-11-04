@@ -1,0 +1,22 @@
+.primeiradiv{
+
+  padding-top: 50px;
+
+}
+
+label{
+
+  padding-top: 20px;
+}
+
+.secundadiv{
+
+
+  padding-bottom: 50px;
+}
+
+button {
+  display: block;
+  margin:0 auto;
+  margin-top: 10px;
+}

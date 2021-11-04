@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "leo",
+      "mensagem": "Seja bem vindo a minha pagina!"
+    },
+    {
+      "id": 2,
+      "nome": "fabiana",
+      "mensagem": "Seja bem vindo a minha pagina!"
+    },
+    {
+      "id": 3,
+      "nome": "jucilda",
+      "mensagem": "Seja bem vindo a minha pagina!"
+    },
+    {
+      "id": 4,
+      "nome": "garrydo",
+      "mensagem": "Seja bem vindo a minha pagina!"
+    }
+  ]
+}
